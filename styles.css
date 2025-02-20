@@ -12,6 +12,11 @@
     background-color: #f0f0f0;
 }
 
+footer {
+    color: rgb(255, 0, 0);
+    text-align: center;
+    
+}
 
 .carousel {
     width: 50%;
